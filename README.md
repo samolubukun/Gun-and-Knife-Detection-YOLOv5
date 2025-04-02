@@ -17,14 +17,8 @@ https://github.com/user-attachments/assets/32db6b36-67a9-41af-b4df-cfbc1424b0de
 - **Live Video Processing**: Processes video files frame by frame to detect weapons.
 
 ## Dataset
-The model was trained using the [Guns & Knives Object Detection Dataset](https://www.kaggle.com/datasets/iqmansingh/guns-knives-object-detection/data), which contains labeled images of firearms and knives.
+The model was trained using the Kaggle [Guns & Knives Object Detection Dataset](https://www.kaggle.com/datasets/iqmansingh/guns-knives-object-detection/data), which contains labeled images of firearms and knives.
 
-## Installation
-Ensure you have the required dependencies installed:
-
-```bash
-pip install ultralytics gradio opencv-python numpy pillow torch torchvision
-```
 
 ## Usage
 ### Running the Jupyter Notebook
