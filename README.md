@@ -5,7 +5,7 @@ This project demonstrates a YOLO-based object detection model trained to detect 
 
 ## Screenshots
 ### Image Detection
-![Screenshot (367)](https://github.com/user-attachments/assets/5554d95e-7a75-4156-a69a-3b64c2687994)
+![Screenshot (367)](https://github.com/user-attachments/assets/22b33a7c-23b4-47c4-aba9-a516cbb3e031)
 
 ### Video Detection
 https://github.com/user-attachments/assets/32db6b36-67a9-41af-b4df-cfbc1424b0de
